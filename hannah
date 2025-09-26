@@ -1,0 +1,516 @@
+<!-- B -->
+<div class="glossarycell" id="B">B</div>
+<div class="accordion">
+  <input id="toggle7" type="radio" class="accordion-toggle" name="toggleB" />
+  <label for="toggle7">Book a Load</label>
+  <section><p>The process of scheduling a shipment with a carrier.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle8" type="radio" class="accordion-toggle" name="toggleB" />
+  <label for="toggle8">Build a Load</label>
+  <section><p>Organizing and preparing a load for transportation, including goods, equipment, and route.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle9" type="radio" class="accordion-toggle" name="toggleB" />
+  <label for="toggle9">Bulk</label>
+  <section><p>Large quantities of goods transported or stored without packaging.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle10" type="radio" class="accordion-toggle" name="toggleB" />
+  <label for="toggle10">Cadences</label>
+  <section><p>Sales or communication cycles and scheduled follow-ups for client interactions.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle11" type="radio" class="accordion-toggle" name="toggleB" />
+  <label for="toggle11">Campaign</label>
+  <section><p>Marketing initiative (ads, events, direct mail) used to generate prospects and build brand awareness.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle12" type="radio" class="accordion-toggle" name="toggleB" />
+  <label for="toggle12">Capacity</label>
+  <section><p>The maximum amount of cargo a carrier or system can handle at one time.</p></section>
+</div>
+
+<!-- C -->
+<div class="glossarycell" id="C">C</div>
+<div class="accordion">
+  <input id="toggle13" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle13">Cargo Value</label>
+  <section><p>The monetary worth of the goods being shipped.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle14" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle14">Carrier 411</label>
+  <section><p>Service providing detailed information about carriers, including qualifications and compliance.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle15" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle15">Carrier Compliance</label>
+  <section><p>Ensuring carriers meet legal and regulatory requirements.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle16" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle16">Carrier Quote</label>
+  <section><p>Formal price estimate from a carrier to transport goods.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle17" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle17">Carrier Service</label>
+  <section><p>Revenova record for quoting, tendering, and status updates. Types: Carrier and Vendor.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle18" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle18">Carrier Setup Packet</label>
+  <section><p>Documentation to set up a new carrier, including agreements and compliance forms.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle19" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle19">Chatter Feed</label>
+  <section><p>Recent activities in Salesforce: posts, updates to records, and group posts.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle20" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle20">Check-Call Comments</label>
+  <section><p>Notes taken during check-calls with carriers to monitor shipment status.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle21" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle21">Chrome Memory Saver</label>
+  <section><p>Chrome feature that reduces memory by sleeping unused tabs.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle22" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle22">Claim Form</label>
+  <section><p>Form used to file claims for damaged or lost goods.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle23" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle23">Claims</label>
+  <section><p>Requests for compensation due to loss or damage.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle24" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle24">Clone a Load</label>
+  <section><p>Copying an existing load to create a similar new one.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle25" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle25">Commodity</label>
+  <section><p>Goods being transported, often classified by type.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle26" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle26">Console</label>
+  <section><p>Interface to monitor or manage logistics operations.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle27" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle27">Contact</label>
+  <section><p>Individual associated with an account.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle28" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle28">Contact Role</label>
+  <section><p>Role a contact plays in an account, contract, or opportunity (e.g., Decision Maker).</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle29" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle29">Container View</label>
+  <section><p>Visualization of container contents for loading or inventory.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle30" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle30">Contract Quote</label>
+  <section><p>Price estimate under specific contract terms.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle31" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle31">Convert</label>
+  <section><p>Action that changes a qualified lead into an account, contact, and optionally an opportunity.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle32" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle32">Current Day</label>
+  <section><p>Refers to “yesterday” for scoring, to capture complete delivery/tracking data.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle33" type="radio" class="accordion-toggle" name="toggleC" />
+  <label for="toggle33">Customer Account</label>
+  <section><p>Business account with billing, shipping, and contact info.</p></section>
+</div>
+
+<!-- D -->
+<div class="glossarycell" id="D">D</div>
+<div class="accordion">
+  <input id="toggle34" type="radio" class="accordion-toggle" name="toggleD" />
+  <label for="toggle34">Dashboard</label>
+  <section><p>Visual components (charts, gauges, tables) displaying data from reports.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle35" type="radio" class="accordion-toggle" name="toggleD" />
+  <label for="toggle35">DAT</label>
+  <section><p>Market-leading load board and freight matching service.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle36" type="radio" class="accordion-toggle" name="toggleD" />
+  <label for="toggle36">Double Brokering</label>
+  <section><p>Illegal practice of rebrokering a load already assigned to another broker.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle37" type="radio" class="accordion-toggle" name="toggleD" />
+  <label for="toggle37">Drayage</label>
+  <section><p>Short-distance transport, often port to nearby warehouse.</p></section>
+</div>
+
+<!-- E -->
+<div class="glossarycell" id="E">E</div>
+<div class="accordion">
+  <input id="toggle38" type="radio" class="accordion-toggle" name="toggleE" />
+  <label for="toggle38">EDI</label>
+  <section><p>Electronic Data Interchange for standardized document transfer.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle39" type="radio" class="accordion-toggle" name="toggleE" />
+  <label for="toggle39">Equipment Types</label>
+  <section><p>Vehicle/equipment types such as flatbeds, containers, refrigerated trucks.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle40" type="radio" class="accordion-toggle" name="toggleE" />
+  <label for="toggle40">Expedite</label>
+  <section><p>Time-sensitive freight with prioritized pickup and/or delivery.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle41" type="radio" class="accordion-toggle" name="toggleE" />
+  <label for="toggle41">Exporting</label>
+  <section><p>Importing external lead data from ZoomInfo into Salesforce for tracking.</p></section>
+</div>
+
+<!-- F -->
+<div class="glossarycell" id="F">F</div>
+<div class="accordion">
+  <input id="toggle42" type="radio" class="accordion-toggle" name="toggleF" />
+  <label for="toggle42">Falvey</label>
+  <section><p>Option to purchase additional cargo insurance.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle43" type="radio" class="accordion-toggle" name="toggleF" />
+  <label for="toggle43">Find a Carrier</label>
+  <section><p>Process/tool to locate and select carriers for a shipment.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle44" type="radio" class="accordion-toggle" name="toggleF" />
+  <label for="toggle44">Freight Quote</label>
+  <section><p>Generating a price estimate for transporting goods.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle45" type="radio" class="accordion-toggle" name="toggleF" />
+  <label for="toggle45">Freight Quote Assistant</label>
+  <section><p>Tool/service that helps generate freight service quotes.</p></section>
+</div>
+
+<!-- G -->
+<div class="glossarycell" id="G">G</div>
+<div class="accordion">
+  <input id="toggle46" type="radio" class="accordion-toggle" name="toggleG" />
+  <label for="toggle46">Generate Documents</label>
+  <section><p>Creating labels, invoices, or bills of lading for shipments.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle47" type="radio" class="accordion-toggle" name="toggleG" />
+  <label for="toggle47">Greenscreens</label>
+  <section><p>AI pricing tool delivering real-time predictive freight rates.</p></section>
+</div>
+
+<!-- H -->
+<div class="glossarycell" id="H">H</div>
+<div class="accordion">
+  <input id="toggle48" type="radio" class="accordion-toggle" name="toggleH" />
+  <label for="toggle48">Handling Units</label>
+  <section><p>Units used to manage and handle goods; shipping units/packages.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle49" type="radio" class="accordion-toggle" name="toggleH" />
+  <label for="toggle49">Hazmat</label>
+  <section><p>Hazardous materials posing risk during transportation.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle50" type="radio" class="accordion-toggle" name="toggleH" />
+  <label for="toggle50">Highway</label>
+  <section><p>KCH integration adding automation and better carrier management.</p></section>
+</div>
+
+<!-- I -->
+<div class="glossarycell" id="I">I</div>
+<div class="accordion">
+  <input id="toggle51" type="radio" class="accordion-toggle" name="toggleI" />
+  <label for="toggle51">Imports</label>
+  <section><p>Goods brought into a country; subject to customs/tariffs.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle52" type="radio" class="accordion-toggle" name="toggleI" />
+  <label for="toggle52">Intermodal</label>
+  <section><p>Movement using more than one mode (truck, rail, ship).</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle53" type="radio" class="accordion-toggle" name="toggleI" />
+  <label for="toggle53">Intrastate</label>
+  <section><p>Transportation within the same state.</p></section>
+</div>
+
+<!-- K -->
+<div class="glossarycell" id="K">K</div>
+<div class="accordion">
+  <input id="toggle54" type="radio" class="accordion-toggle" name="toggleK" />
+  <label for="toggle54">Kan Ban</label>
+  <section><p>Revenova Kanban List View to manage records by status/stage.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle55" type="radio" class="accordion-toggle" name="toggleK" />
+  <label for="toggle55">KCNT Shippers Interest</label>
+  <section><p>Insurance product covering goods during shipping.</p></section>
+</div>
+
+<!-- L -->
+<div class="glossarycell" id="L">L</div>
+<div class="accordion">
+  <input id="toggle56" type="radio" class="accordion-toggle" name="toggleL" />
+  <label for="toggle56">Lane</label>
+  <section><p>Transportation route between two locations.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle57" type="radio" class="accordion-toggle" name="toggleL" />
+  <label for="toggle57">Lane IQ</label>
+  <section><p>LWC providing mileage, routing, and historic sales info.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle58" type="radio" class="accordion-toggle" name="toggleL" />
+  <label for="toggle58">Lead</label>
+  <section><p>Potential customer showing interest in products/services.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle59" type="radio" class="accordion-toggle" name="toggleL" />
+  <label for="toggle59">LTL (Less-Than-Truckload)</label>
+  <section><p>Multiple shippers share one truck; 1–6 pallets, up to 5,000 lbs, under 12 feet.</p></section>
+</div>
+
+<!-- M -->
+<div class="glossarycell" id="M">M</div>
+<div class="accordion">
+  <input id="toggle60" type="radio" class="accordion-toggle" name="toggleM" />
+  <label for="toggle60">Margin</label>
+  <section><p>Difference between cost to deliver and revenue (profit).</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle61" type="radio" class="accordion-toggle" name="toggleM" />
+  <label for="toggle61">Market Score</label>
+  <section><p>+1 if carrier quote is &lt; 7.5% below customer quote; else −1.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle62" type="radio" class="accordion-toggle" name="toggleM" />
+  <label for="toggle62">MC Number</label>
+  <section><p>FMCSA Motor Carrier number for compliance/regulation.</p></section>
+</div>
+
+<!-- N -->
+<div class="glossarycell" id="N">N</div>
+<div class="accordion">
+  <input id="toggle63" type="radio" class="accordion-toggle" name="toggleN" />
+  <label for="toggle63">New Lead</label>
+  <section><p>Newly identified potential customer for sales engagement.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle64" type="radio" class="accordion-toggle" name="toggleN" />
+  <label for="toggle64">NMFC</label>
+  <section><p>National Motor Freight Classification for LTL rating.</p></section>
+</div>
+
+<!-- O -->
+<div class="glossarycell" id="O">O</div>
+<div class="accordion">
+  <input id="toggle65" type="radio" class="accordion-toggle" name="toggleO" />
+  <label for="toggle65">On-Time Score</label>
+  <section><p>Daily metric using month-to-date delivery performance.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle66" type="radio" class="accordion-toggle" name="toggleO" />
+  <label for="toggle66">Onboarding New Carriers</label>
+  <section><p>Registering new carriers and ensuring regulatory compliance.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle67" type="radio" class="accordion-toggle" name="toggleO" />
+  <label for="toggle67">Opportunity</label>
+  <section><p>Record that tracks a potential deal and sales progress.</p></section>
+</div>
+
+<!-- P -->
+<div class="glossarycell" id="P">P</div>
+<div class="accordion">
+  <input id="toggle68" type="radio" class="accordion-toggle" name="toggleP" />
+  <label for="toggle68">Parent Account</label>
+  <section><p>Organization that an account is affiliated with.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle69" type="radio" class="accordion-toggle" name="toggleP" />
+  <label for="toggle69">Payment</label>
+  <section><p>Money paid toward your account; Checkout shows org payments.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle70" type="radio" class="accordion-toggle" name="toggleP" />
+  <label for="toggle70">Pipeline</label>
+  <section><p>Open opportunities closing this quarter; managers include team totals.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle71" type="radio" class="accordion-toggle" name="toggleP" />
+  <label for="toggle71">Project 44</label>
+  <section><p>Real-time shipment tracking platform integrating with TMS.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle72" type="radio" class="accordion-toggle" name="toggleP" />
+  <label for="toggle72">Prospect Account</label>
+  <section><p>Potential customer being evaluated for engagement.</p></section>
+</div>
+
+<!-- Q -->
+<div class="glossarycell" id="Q">Q</div>
+<div class="accordion">
+  <input id="toggle73" type="radio" class="accordion-toggle" name="toggleQ" />
+  <label for="toggle73">Quote</label>
+  <section><p>Proposed prices for products/services; often created from opportunities.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle74" type="radio" class="accordion-toggle" name="toggleQ" />
+  <label for="toggle74">Quote Tools</label>
+  <section><p>Tools for generating/managing freight quotes to speed pricing and improve accuracy.</p></section>
+</div>
+
+<!-- R -->
+<div class="glossarycell" id="R">R</div>
+<div class="accordion">
+  <input id="toggle75" type="radio" class="accordion-toggle" name="toggleR" />
+  <label for="toggle75">Rate Confirmation</label>
+  <section><p>Document confirming agreed rates between shipper and carrier.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle76" type="radio" class="accordion-toggle" name="toggleR" />
+  <label for="toggle76">Revenova</label>
+  <section><p>KCH’s TMS for end-to-end freight management.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle77" type="radio" class="accordion-toggle" name="toggleR" />
+  <label for="toggle77">RFP</label>
+  <section><p>Request for Proposal inviting vendors/carriers to bid.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle78" type="radio" class="accordion-toggle" name="toggleR" />
+  <label for="toggle78">RFQ</label>
+  <section><p>Request for Quotation asking suppliers/carriers for pricing.</p></section>
+</div>
+
+<!-- S -->
+<div class="glossarycell" id="S">S</div>
+<div class="accordion">
+  <input id="toggle79" type="radio" class="accordion-toggle" name="toggleS" />
+  <label for="toggle79">Salesforce</label>
+  <section><p>KCH’s CRM for managing sales, leads, accounts, contacts, and opportunities.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle80" type="radio" class="accordion-toggle" name="toggleS" />
+  <label for="toggle80">Sales Engagement</label>
+  <section><p>Salesforce app centralizing sales tasks and prospect interactions.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle81" type="radio" class="accordion-toggle" name="toggleS" />
+  <label for="toggle81">Service Level</label>
+  <section><p>Method or urgency of transport to match carrier capabilities.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle82" type="radio" class="accordion-toggle" name="toggleS" />
+  <label for="toggle82">Spot Quotes</label>
+  <section><p>One-time quotes for individual shipments, often LTL or ad hoc.</p></section>
+</div>
+
+<!-- T -->
+<div class="glossarycell" id="T">T</div>
+<div class="accordion">
+  <input id="toggle83" type="radio" class="accordion-toggle" name="toggleT" />
+  <label for="toggle83">Tender</label>
+  <section><p>Offering a shipment to a carrier with terms and pricing.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle84" type="radio" class="accordion-toggle" name="toggleT" />
+  <label for="toggle84">Transportation Management System (TMS)</label>
+  <section><p>Software to plan, execute, and optimize freight movement; KCH uses Revenova.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle85" type="radio" class="accordion-toggle" name="toggleT" />
+  <label for="toggle85">Truckstop</label>
+  <section><p>Load board for posting loads, finding capacity, and negotiating rates.</p></section>
+</div>
+
+<!-- U -->
+<div class="glossarycell" id="U">U</div>
+<div class="accordion">
+  <input id="toggle86" type="radio" class="accordion-toggle" name="toggleU" />
+  <label for="toggle86">Unqualified (Lead)</label>
+  <section><p>Lead that doesn’t meet criteria for continued engagement.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle87" type="radio" class="accordion-toggle" name="toggleU" />
+  <label for="toggle87">User Directory</label>
+  <section><p>List of system users with roles, permissions, and contact info.</p></section>
+</div>
+
+<!-- V -->
+<div class="glossarycell" id="V">V</div>
+<div class="accordion">
+  <input id="toggle88" type="radio" class="accordion-toggle" name="toggleV" />
+  <label for="toggle88">Vendor Quote</label>
+  <section><p>Quote added to a load for services beyond moving the freight.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle89" type="radio" class="accordion-toggle" name="toggleV" />
+  <label for="toggle89">Vetting Carriers</label>
+  <section><p>Evaluating carrier qualifications, performance, and compliance.</p></section>
+</div>
+
+<!-- W -->
+<div class="glossarycell" id="W">W</div>
+<div class="accordion">
+  <input id="toggle90" type="radio" class="accordion-toggle" name="toggleW" />
+  <label for="toggle90">Web Direct Leads</label>
+  <section><p>Lead source when users submit a Web-to-Lead form after directly accessing the site.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle91" type="radio" class="accordion-toggle" name="toggleW" />
+  <label for="toggle91">Workspace</label>
+  <section><p>Customizable area within a record/app to streamline workflow.</p></section>
+</div>
+
+<!-- X -->
+<div class="glossarycell" id="X">X</div>
+<div class="accordion">
+  <input id="toggle92" type="radio" class="accordion-toggle" name="toggleX" />
+  <label for="toggle92">XML (Extensible Markup Language)</label>
+  <section><p>Markup language for structured data; Lightning metadata is represented as XML.</p></section>
+</div>
+
+<!-- Y -->
+<div class="glossarycell" id="Y">Y</div>
+<div class="accordion">
+  <input id="toggle93" type="radio" class="accordion-toggle" name="toggleY" />
+  <label for="toggle93">Yield</label>
+  <section><p>Metric describing efficiency/profitability relative to resources used.</p></section>
+</div>
+
+<!-- Z -->
+<div class="glossarycell" id="Z">Z</div>
+<div class="accordion">
+  <input id="toggle94" type="radio" class="accordion-toggle" name="toggleZ" />
+  <label for="toggle94">ZoomInfo</label>
+  <section><p>Cloud B2B intelligence platform used at KCH for accurate prospecting.</p></section>
+</div>
+<div class="accordion">
+  <input id="toggle95" type="radio" class="accordion-toggle" name="toggleZ" />
+  <label for="toggle95">ZoomInfo University</label>
+  <section><p>Training resources for effective use of ZoomInfo’s tools.</p></section>
+</div>
